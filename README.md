@@ -2,7 +2,7 @@
 
 ##Curso Python da [Campinas Tech Talents](http://campinas.tech/campinas-tech-talents/ "Campinas Tech Talents") ministrado por [Jeferson Araujo](https://github.com/jeffaraujo/ "Jeferson Araujo")
 
-![](Campinas Tech Talents)](https://i.imgur.com/xVFC0hy.png)
+![](https://i.imgur.com/xVFC0hy.png)
 
 ###Primeira semana de aulas - conteúdo estudado:
 - Sintaxe Básica
@@ -38,4 +38,4 @@
 17. Fazer um sistema de Agenda de revisão do Carro (Deve pedir o nome do carro, ano e modelo, nome do proprietário, data e hora da revisão. Depois deve guardar os dados em um dicionário e mostrar a lista de dicionários (agendamentos) na tela) 
 18. Fazer um sistema de compras (Deve mostrar um dicionário com os objetos (Nome, Preço e Cor), pedir o nome do usuário e fazer com o que o usuário selecione um objeto e imprimir a compra na tela)
 
-![](Algoritmo)](https://i.imgur.com/69dI9HS.png)
+![](https://i.imgur.com/69dI9HS.png)
